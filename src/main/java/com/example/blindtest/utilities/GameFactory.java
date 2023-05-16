@@ -1,4 +1,4 @@
-package com.example.blindtest.service;
+package com.example.blindtest.utilities;
 
 import com.example.blindtest.game.Match;
 import com.example.blindtest.game.Round;
