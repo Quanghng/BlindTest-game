@@ -24,8 +24,8 @@ public class Match {
         this.players.add(player);
     }
 
-    public void addRound(Round round) {
-        this.rounds.add(round);
+    public void addRounds(List<Round> rounds) {
+        this.rounds.addAll(rounds);
     }
 
     public Round getRound(int i){
